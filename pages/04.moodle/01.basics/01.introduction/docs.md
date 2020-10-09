@@ -10,7 +10,6 @@ Moodle is a web platform that allows students and faculty to access a common, se
 
 Moodle is one component of TWU's Digital Learning Commons, which also includes [WordPress](https://create.twu.ca), [PressBooks](https://books.twu.ca), and other platforms maintained by individual faculty.
 
-dsfasdfasdfafdafd
 
 #### Login
 
