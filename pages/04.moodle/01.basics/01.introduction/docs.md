@@ -10,10 +10,7 @@ Moodle is a web platform that allows students and faculty to access a common, se
 
 Moodle is one component of TWU's Digital Learning Commons, which also includes [WordPress](https://create.twu.ca), [PressBooks](https://books.twu.ca), and other platforms maintained by individual faculty.
 
-<details>
-  <summary><b>Click here for the solution.</b></summary>
-    <p>The answer is to add a curved line shaped like an "S" (i.e., "SIX"). In writing, the problem looks simple, but you might want to try it aloud on a friend. There is a mental set that one must add a straight line and have some form of Roman numeral on the page.</p>
-</details>
+dsfasdfasdfafdafd
 
 #### Login
 
