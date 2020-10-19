@@ -97,3 +97,31 @@ representative at an online or offline event.</p>
 <p>Whether you are participating in a discussion as part of a course, part of a professional environment, or within your own personal pursuits, it is important to develop an awareness around matters of privacy. Some forums you will participate in will be more private than others – THIS IS AN IMPORTANT CONSIDERATION. Always remember, when we submit an online post, there is usually some public openness (word choice?) so it is important that we always carefully consider what we post. </p>
 </details>
 
+---
+
+<details>
+  <summary><b>4. Online Learning Environments</b> (ZOOM, Skype, Bluejeans, TEAMS, etc...) - click to expand</summary>
+    <p>Your learning will often take place in an online meeting forum such as ZOOM – these online meeting forums are called Synchronous Learning Environments. Whether it is with an Instructor, Teaching Assistant, Facilitator, or peers, these environments require their own, unique considerations when it comes to netiquette. Take a look at some guidelines:</p>
+    <p><b>NOTE:</b> <i>Different meetings may have different guidelines. Be sure to review any guidelines set out by your instructor prior to attending a synchronous learning session!</i></p>
+  <details>
+  <summary><i>General Guidelines</i></summary>
+    <p><ul><li> When joining a meeting, ensure your mic is muted.<li> When someone else is presenting, mute your mic. <li> Clarify whether the expectation is that your camera is “on” or “off” during meeting.<ul><li> This may differ from situation to situation!.</ul><li> Remember – sometimes these meetings are being recorded so be mindful of your actions and contributions.</li></p>
+</details>
+   <details>
+  <summary><i>Asking a Question</i></summary>
+    <p><ul><li> Most communication apps that you will use will have a “chat” function – this is where you can type any questions. <ul><li> This way you are not interrupting – presenter can address questions at an appropriate time.</ul></li></p>
+</details>
+<p><b>What Does Active Learning/Participation Look Like in an Online "Classroom"?</b></p>
+<p><ul><li> Camera on, mic muted<li> Asking questions in the chat.<li> Resisting the temptation to surf, check email, etc... in another tab or on another device<li> Using reactions to respond during the presentation<ul><li> Emoji use is acceptable (YAY!)</ul><li> Repeating what someone said before you to acknowledge their thoughts before proceeding with new ideas.</ul></li></p>
+</details>
+
+---
+
+<details>
+  <summary><b>5. Submitting Assignments/Exchanging Documents</b> - click to expand</summary>
+    <p>Typically, most courses will provide guidelines for submitting an assignment – it is important to follow these guidelines. Be sure to review all course information, and assignment information, prior to submitting any documentation.</p>
+    <p>Many instructors will expect student’s to use a specific naming convention when submitting an assignment. For example, you might be asked to label your assignments as:</p>
+    <p><ul><li><b>"FirstName_LastName_AssignmentNumber"</b><ul><li>instead of "randomtitle99.docx.”</ul></ul></li></p>
+    <p>Be aware that these are not suggestions, but rather, expectations to help with the organization of documents.</p>
+    <p>Also, it is helpful to keep this in mind when exchanging documents with other students (as part of a group project, for example). Using random titles for your documents makes it a challenge for your peers to organize documents as well – be considerate and try to provide some meaning when saving your documents.</p>
+</details>
