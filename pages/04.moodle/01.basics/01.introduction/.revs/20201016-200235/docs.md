@@ -4,8 +4,6 @@ taxonomy:
     category:
         - docs
 child_type: docs
-page-toc:
-  active: true
 ---
 
 <mark>Colin - what do you think about this as a doc instead of a chapter? I am not sure how I feel about the "centering" - compare to next page</mark>
@@ -53,7 +51,7 @@ Moodle users have the option of creating a filtered course list to show a conden
 <details>
   <summary><b>Course Still Not Showing?</b> - click to expand</summary>
   <p>There are several reasons why your course might not be showing in Moodle.</p>
-
+   
   <p><b>1. Your instructor has not set the course to 'Visible' yet.</b><ul><li>All courses are hidden by default.<li>Please see [this link for help with course visibility](https://create.twu.ca/help/moodle/faculty/show-hide).</ul></li></p>
 <p><b>2. You are not properly registered for the course.</b><ul><li>Please contact the Office of the Registrar.</ul></li></p>
 <p><b>3. You are not up-to-date on your tuition payments.</b><ul><li>Please contact the Office of the Registrar.<li>Once you are up-to-date, your status will be updated.</ul></li></p>
