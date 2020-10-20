@@ -9,11 +9,8 @@ page-toc:
 ---
 
 <mark>Colin - what do you think about this as a doc instead of a chapter? I am not sure how I feel about the "centering" - compare to next page</mark>
-# head 1
-
 
 On this page you will find some general information about Moodle. This page is a good resource for all users of Moodle, as it provides an overview of some "basic" functions you may have some questions about. To learn more, click on each topic below:
-## h2
 
 <details>
   <summary><b>Introduction and Login</b> - click to expand</summary>
