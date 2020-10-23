@@ -1,19 +1,15 @@
 ---
-title: 'General Overview'
+title: Basics
 taxonomy:
-    category:
-        - docs
+    category: docs
 child_type: docs
-page-toc:
-  active: true
 ---
 
 <mark>Colin - what do you think about this as a doc instead of a chapter? I am not sure how I feel about the "centering" - compare to next page</mark>
-# head 1
 
+### General Overview
 
 On this page you will find some general information about Moodle. This page is a good resource for all users of Moodle, as it provides an overview of some "basic" functions you may have some questions about. To learn more, click on each topic below:
-## h2
 
 <details>
   <summary><b>Introduction and Login</b> - click to expand</summary>
@@ -56,10 +52,12 @@ Moodle users have the option of creating a filtered course list to show a conden
 <details>
   <summary><b>Course Still Not Showing?</b> - click to expand</summary>
   <p>There are several reasons why your course might not be showing in Moodle.</p>
-
+   
   <p><b>1. Your instructor has not set the course to 'Visible' yet.</b><ul><li>All courses are hidden by default.<li>Please see [this link for help with course visibility](https://create.twu.ca/help/moodle/faculty/show-hide).</ul></li></p>
 <p><b>2. You are not properly registered for the course.</b><ul><li>Please contact the Office of the Registrar.</ul></li></p>
 <p><b>3. You are not up-to-date on your tuition payments.</b><ul><li>Please contact the Office of the Registrar.<li>Once you are up-to-date, your status will be updated.</ul></li></p>
 <p><b>4. You registered very recently and our system has not synchronized yet.</b><ul><li>We synchronize Moodle with Jenzabar \(our database of registrations\) every 6 hours.</ul></li></p>
 <p><b>5. Your dashboard is only showing some of your courses.</b><ul><li>i) Scroll to the bottom of courses listed, scroll through other pages.<li>ii) Have a look through your 'Past', 'Future' 'In Progress' tabs.<li>iii) [Customize what you see on your Dashboard by following these instructions.](https://create.twu.ca/help/moodle/basics/filtered-course-list)</ul></li></p>
 </details>
+
+
