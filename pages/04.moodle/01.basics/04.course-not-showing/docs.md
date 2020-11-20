@@ -12,9 +12,12 @@ There are several reasons why your course might not be showing in Moodle.
   - All courses are hidden by default.
   - Please see [this link for help with course visibility](https://create.twu.ca/help/moodle/faculty/show-hide).
 * You are not properly registered for the course.
-  * Please contact the [Office of the Registrar.](https://www.twu.ca/academics/office-registrar)
+  * Please contact the Office of the Registrar.
+* You are not up-to-date on your tuition payments.
+  * Please contact the Office of the Registrar.
+  * Once you are up-to-date, your status will be updated.
 * You registered very recently and our system has not synchronized yet.
-  * We synchronize Moodle with Jenzabar \(our database of registrations\) every 6 hours (6:00am, 12:00 noon, 6:00pm, and 12:00 midnight).
+  * We synchronize Moodle with Jenzabar \(our database of registrations\) every 6 hours.
 * Your dashboard is only showing some of your courses.
   1. Scroll to the bottom of courses listed, scroll through other pages
   2. Have a look through your 'Past', 'Future' 'In Progress' tabs.
